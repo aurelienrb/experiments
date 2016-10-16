@@ -1,0 +1,4 @@
+stack-aware-objects/hybrid-smart-pointers/x64/
+stack-aware-objects/hybrid-smart-pointers/Debug/
+*.sdf
+*.opensdf

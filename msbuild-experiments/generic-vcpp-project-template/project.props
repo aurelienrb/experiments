@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{F82F54A8-3B4F-448B-AE13-5E1F4A0A2C1X}</ProjectGuid>
+    <ProjectName>My project</ProjectName>
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+  </PropertyGroup>
+</Project>
